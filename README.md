@@ -1,42 +1,40 @@
 # Data Professional Survey Analysis
 
-Ovaj repozitorijum sadrži završni projekat urađen u Power BI-u, koji analizira podatke prikupljene putem ankete među profesionalcima iz oblasti rada sa podacima, kao što su Data Scientist-i, Data Analyst-i i Data Engineer-i.
+This repository contains the final project created in Power BI, which analyzes data collected through a survey of professionals in the field of data-related work, such as Data Scientists, Data Analysts, and Data Engineers.
 
-## Sadržaj repozitorijuma
+## Repository Content
 
-- **Anketa.pbix** – Power BI fajl sa završnim dashboard-om.
-- **Power BI - Final Project.xlsx** – Excel fajl sa sirovim podacima koji su korišćeni za analizu.
+- **Anketa.pbix** – Power BI file containing the final dashboard.
+- **Power BI - Final Project.xlsx** – Excel file with raw data used for the analysis.
 
-## Ciljevi projekta
+## Project Objectives
 
-1. Analizirati demografske karakteristike ispitanika.
-2. Prikazati raspodelu prosečnih plata po različitim pozicijama.
-3. Identifikovati najpopularnije programske jezike koje koriste profesionalci.
-4. Ispitati nivo zadovoljstva ispitanika poslom, platom i balans između posla i privatnog života.
-5. Analizirati koliko ispitanici smatraju da je teško započeti karijeru u oblasti rada sa podacima.
+1. Analyze the demographic characteristics of respondents.
+2. Display the distribution of average salaries by different job titles.
+3. Identify the most popular programming languages used by professionals.
+4. Examine the level of job satisfaction regarding work, salary, and work-life balance.
+5. Analyze how difficult respondents perceive it is to start a career in the data field.
 
-## Vizualizacije
+## Visualizations
 
 1. **Country of Survey Takers:**  
-   Prikazuje zemlje iz kojih dolaze ispitanici.
-   
+   Displays the countries where the respondents are from.
+
 2. **Average Salary by Job Title:**  
-   Prikazuje prosečne plate za različite titule (Data Scientist, Data Engineer, itd.).
+   Shows the average salaries for different job titles (Data Scientist, Data Engineer, etc.).
 
 3. **Favorite Programming Language:**  
-   Vizualizuje najčešće korišćene programske jezike, pri čemu su Python, R i SQL među najpopularnijima.
+   Visualizes the most commonly used programming languages, with Python, R, and SQL among the most popular.
 
 4. **Difficulty to Break Into Data:**  
-   Ispituje koliko ispitanici smatraju da je lako ili teško započeti karijeru u oblasti podataka.
+   Examines how easy or difficult respondents believe it is to start a career in the data field.
 
 5. **Happiness Metrics:**  
-   - **Happiness with Work/Life Balance:** Prikazuje nivo zadovoljstva ispitanika u vezi sa balansom između posla i privatnog života.  
-   - **Happiness with Salary:** Prikazuje nivo zadovoljstva ispitanika platom.
+   - **Happiness with Work/Life Balance:** Shows the level of satisfaction with work-life balance.  
+   - **Happiness with Salary:** Shows the level of satisfaction with salary.
 
-## Kako koristiti
+## How to Use
 
-1. Preuzmite Power BI fajl (**Anketa.pbix**) i otvorite ga pomoću Power BI Desktop aplikacije.
-2. Ako želite da ažurirate podatke, koristite priloženi Excel fajl (**Power BI - Final Project.xlsx**).
-3. Pregledajte različite stranice dashboard-a i analizirajte rezultate.
-
-
+1. Download the Power BI file (**Anketa.pbix**) and open it using the Power BI Desktop application.
+2. If you want to update the data, use the provided Excel file (**Power BI - Final Project.xlsx**).
+3. Explore the various dashboard pages and analyze the results.
